@@ -1,4 +1,4 @@
 # bmi_calculator
 
-- This is Flutter Project
-- Simple BMI Calculator
+<li>This is Flutter Project</li>
+<li>Simple BMI Calculator</li>
