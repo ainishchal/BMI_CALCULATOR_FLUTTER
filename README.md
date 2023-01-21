@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
- -You can Calculate Your Body Mass Index
- -This is Simple Personal Project
+ <li>You can Calculate Your Body Mass Index<li>
+ <li>This is Simple Personal Project<li>
